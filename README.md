@@ -34,3 +34,25 @@ This portfolio features:
 ├── public       # Static assets like images and icons
 ├── styles       # Tailwind CSS and global styles
 └── README.md    # This file
+
+## 💻 Installation & Setup
+
+To run the project locally, follow these steps:
+
+1.	Clone the repository:
+git clone https://github.com/yourusername/motion-designer-portfolio.git
+
+2.	Navigate to the project directory:
+cd motion-designer-portfolio
+
+3.	Install the dependencies:
+npm install
+
+4.	Run the development server:
+npm run dev
+
+5.	Open your browser and go to http://localhost:3000 to view the portfolio.
+
+6.	For production build, you can run:
+npm run build
+npm run start
