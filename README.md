@@ -18,7 +18,7 @@ This portfolio features:
 - **Next.js**: For fast performance and SEO-friendly pages.
 - **React**: To build reusable UI components.
 - **Tailwind CSS**: To create responsive, utility-first designs.
-- **Framer Motion**: For smooth animations and transitions.
+
 
 ## 🎨 Key Features
 
@@ -28,31 +28,4 @@ This portfolio features:
 
 ## 📂 Project Structure
 
-```bash
-├── components   # Reusable React components
-├── pages        # Pages for the portfolio (Home, Resume, Projects, Contact)
-├── public       # Static assets like images and icons
-├── styles       # Tailwind CSS and global styles
-└── README.md    # This file
 
-## 💻 Installation & Setup
-
-To run the project locally, follow these steps:
-
-1.	Clone the repository:
-git clone https://github.com/yourusername/motion-designer-portfolio.git
-
-2.	Navigate to the project directory:
-cd motion-designer-portfolio
-
-3.	Install the dependencies:
-npm install
-
-4.	Run the development server:
-npm run dev
-
-5.	Open your browser and go to http://localhost:3000 to view the portfolio.
-
-6.	For production build, you can run:
-npm run build
-npm run start
